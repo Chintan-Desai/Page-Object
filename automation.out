@@ -1,0 +1,7 @@
+2017-11-30 01:30:34 INFO  TC001_LoginVerify:32 - =======starting verifying credentials test=========
+2017-11-30 01:30:35 INFO  HomePage:45 - clicked on sign in and object is :-[[ChromeDriver: chrome on XP (d170d289ce7279b52c681ac2e415a77c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-30 01:30:35 INFO  HomePage:47 - entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (d170d289ce7279b52c681ac2e415a77c)] -> xpath: .//*[@id='email']]
+2017-11-30 01:30:35 INFO  HomePage:49 - entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (d170d289ce7279b52c681ac2e415a77c)] -> xpath: .//*[@id='passwd']]
+2017-11-30 01:30:36 INFO  HomePage:51 - clicked on submit button and object is:-[[ChromeDriver: chrome on XP (d170d289ce7279b52c681ac2e415a77c)] -> xpath: .//*[@id='SubmitLogin']]
+2017-11-30 01:30:36 INFO  HomePage:54 - error message is:-Authentication failed.
+2017-11-30 01:30:36 INFO  TC001_LoginVerify:36 - ==========finished verifying credential test============
